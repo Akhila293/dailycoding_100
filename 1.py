@@ -1,4 +1,4 @@
-# print the numbers that are unique in the list.
+# 20-06-2023 print the numbers that are unique in the list.
 lst=[3,4,5,2,3,5,1,6,7,2,7]
 print("lst: ",lst)
 temp=[]
