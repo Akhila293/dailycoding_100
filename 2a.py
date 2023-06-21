@@ -1,3 +1,4 @@
+# Converting 12 hour format to 24 hour format
 print("Enter the time value in 12-hour format hh:mm:ss(AM/PM) : ")
 s=input()
 l=len(s)
